@@ -4,7 +4,7 @@
   
 ![GitHub followers](https://img.shields.io/github/followers/MartinCortes20?style=flat&logo=github&logoColor=white&color=000000)
 ![GitHub User's stars](https://img.shields.io/github/stars/MartinCortes20?style=flat&logo=github&logoColor=white&color=000000)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-francisco-cortes-8bb642272/)
 
 </div>
 
@@ -121,8 +121,7 @@ Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de e
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-cortesbuendiamartin@gmail.com-000000?style=flat&logo=gmail&logoColor=white)](mailto:cortesbuendiamartin@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-55%201832%203146-000000?style=flat&logo=whatsapp&logoColor=white)](tel:+525518323146)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-francisco-cortes-8bb642272/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/MartinCortes20)
 
 </div>
