@@ -7,33 +7,24 @@
 <div align="center">
   <br>
   <!-- TU GIF PERSONALIZADO -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWl2ajlzZHVydnNnNzN3bDJsNXMzOHNnajM1cmZxNmo3eDB3cXQ3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QYkX9IMHthYn0Y3pcG/giphy.gif" width="250"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWl2ajlzZHVydnNnNzN3bDJsNXMzOHNnajM1cmZxNmo3eDB3cXQ3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QYkX9IMHthYn0Y3pcG/giphy.gif" width="450"/>
   <br>
   
-  <!-- ESPACIO PARA TU FOTO - Reemplaza con tu imagen -->
-  <img src="https://via.placeholder.com/150/000000/FFFFFF/?text=Tu+Foto" width="150" height="150" style="border-radius: 50%; border: 3px solid #333; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
-  <br><br>
   
   <!-- BOTONES CIRCULARES CON ICONOS PERSONALIZADOS -->
   <div>
     <!-- Seguidores -->
     <a href="https://github.com/MartinCortes20?tab=followers" style="text-decoration: none; display: inline-block; margin: 5px;">
-      <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" width="30" height="30" style="vertical-align: middle;"/>
-      <span style="background-color: #000000; color: white; padding: 5px 10px; border-radius: 50px; margin-left: 5px;">
         <img src="https://img.shields.io/github/followers/MartinCortes20?style=flat&logo=github&logoColor=white&color=000000&label=Seguidores" alt="GitHub followers" style="border-radius: 50px; border: none;"/>
       </span>
     </a>
     <br>
-    
     <!-- Estrellas -->
     <a href="https://github.com/MartinCortes20?tab=stars" style="text-decoration: none; display: inline-block; margin: 5px;">
-      <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" width="30" height="30" style="vertical-align: middle;"/>
-      <span style="background-color: #000000; color: white; padding: 5px 10px; border-radius: 50px; margin-left: 5px;">
-        <img src="https://img.shields.io/github/stars/MartinCortes20?style=flat&logo=github&logoColor=white&color=000000&label=Estrellas" alt="GitHub User's stars" style="border-radius: 50px; border: none;"/>
+    <img src="https://img.shields.io/github/stars/MartinCortes20?style=flat&logo=github&logoColor=white&color=000000&label=Estrellas" alt="GitHub User's stars" style="border-radius: 50px; border: none;"/>
       </span>
     </a>
     <br>
-    
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/martin-francisco-cortes-8bb642272/" style="text-decoration: none; display: inline-block; margin: 5px;">
       <img src="https://img.icons8.com/m_outlined/200/FFFFFF/linkedin.png" width="30" height="30" style="vertical-align: middle;"/>
