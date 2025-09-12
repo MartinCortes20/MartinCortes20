@@ -7,7 +7,7 @@
 <div align="center">
   <br>
   <!-- ESPACIO PARA TU FOTO - Reemplaza con tu imagen -->
-  <img src="https://via.placeholder.com/150/000000/FFFFFF/?text=Tu+Foto" width="150" height="150" style="border-radius: 50%; border: 3px solid #333; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+  <img src="https://cdn-icons-png.flaticon.com/512/4401/4401412.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #333; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
   <br><br>
   
   <!-- BOTONES CIRCULARES -->
