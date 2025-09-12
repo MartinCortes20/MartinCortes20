@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Martín Francisco Cortés Buendía
+# ¡Hola! Soy Martín Cortés
 
 <div align="center">
   
