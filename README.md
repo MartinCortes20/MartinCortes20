@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mí
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="550"/>
 </p>
 
 Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de experiencia** en desarrollo backend, frontend y optimización de sistemas. Me especializo en crear soluciones eficientes que mejoran la experiencia del usuario y optimizan procesos empresariales.
