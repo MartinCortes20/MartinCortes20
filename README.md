@@ -5,9 +5,8 @@
 
 <!-- PERFIL CON GIF Y FOTO -->
 <div align="center">
-  <br>
-  <!-- TU GIF PERSONALIZADO -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWl2ajlzZHVydnNnNzN3bDJsNXMzOHNnajM1cmZxNmo3eDB3cXQ3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QYkX9IMHthYn0Y3pcG/giphy.gif" width="450"/>
+
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWl2ajlzZHVydnNnNzN3bDJsNXMzOHNnajM1cmZxNmo3eDB3cXQ3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QYkX9IMHthYn0Y3pcG/giphy.gif" width="650"/>
   <br>
   
   
