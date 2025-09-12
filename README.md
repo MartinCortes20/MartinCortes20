@@ -4,20 +4,23 @@
 </div>
   
   
+<div align="center">
   <!-- BOTONES CIRCULARES CON ICONOS PERSONALIZADOS -->
   <div>
     <!-- Seguidores -->
     <a href="https://github.com/MartinCortes20?tab=followers" style="text-decoration: none; display: inline-block; margin: 5px;">
-        <img src="https://img.shields.io/github/followers/MartinCortes20?style=flat&logo=github&logoColor=white&color=000000&label=Seguidores" alt="GitHub followers" style="border-radius: 50px; border: none;"/>
+      <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" width="30" height="30" style="vertical-align: middle;"/>
+      <span style="background-color: #000000; color: white; padding: 5px 10px; border-radius: 50px; margin-left: 5px;">
+        Seguidores
       </span>
     </a>
-    <br>
     <!-- Estrellas -->
     <a href="https://github.com/MartinCortes20?tab=stars" style="text-decoration: none; display: inline-block; margin: 5px;">
-    <img src="https://img.shields.io/github/stars/MartinCortes20?style=flat&logo=github&logoColor=white&color=000000&label=Estrellas" alt="GitHub User's stars" style="border-radius: 50px; border: none;"/>
+      <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" width="30" height="30" style="vertical-align: middle;"/>
+      <span style="background-color: #000000; color: white; padding: 5px 10px; border-radius: 50px; margin-left: 5px;">
+        Estrellas
       </span>
     </a>
-    <br>
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/martin-francisco-cortes-8bb642272/" style="text-decoration: none; display: inline-block; margin: 5px;">
       <img src="https://img.icons8.com/m_outlined/200/FFFFFF/linkedin.png" width="30" height="30" style="vertical-align: middle;"/>
@@ -27,6 +30,7 @@
     </a>
   </div>
 </div>
+
 
 <!-- FONDO CON DEGRADADO -->
 <div style="background: linear-gradient(to right, #f5f5f5, #e0e0e0); padding: 20px; border-radius: 10px; margin: 20px 0;">
