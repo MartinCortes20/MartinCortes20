@@ -9,14 +9,19 @@
 
 </div>
 
+---
 
 ## 🚀 Sobre mí
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+</p>
 
 Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de experiencia** en desarrollo backend, frontend y optimización de sistemas. Me especializo en crear soluciones eficientes que mejoran la experiencia del usuario y optimizan procesos empresariales.
 
-🎯 **Objetivo:** Desarrollarme como Software Engineer contribuyendo a soluciones impactantes, escalables e inclusivas.
+🎯 **Objetivo:** Desarrollarme como Software Engineer contribuyendo a soluciones impactantes, escalables e inclusivas.  
+📍 **Ubicación:** Ciudad de México, México  
 
-📍 **Ubicación:** Ciudad de México, México
+---
 
 ## 🛠️ Stack Tecnológico
 
@@ -52,11 +57,12 @@ Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de e
 ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat&logo=visualstudiocode&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-000000?style=flat&logo=xcode&logoColor=white)
 
+---
+
 ## 💼 Experiencia Destacada
 
 ### 🏢 Backend Developer - S.A.P.S.Y
 **Junio 2024 – Noviembre 2024**
-
 - ✅ Optimicé sistema de gestión de agua para **+40,000 usuarios registrados**
 - ✅ Rediseñé arquitectura backend con **Node.js y Express**
 - ✅ Implementé validaciones que **redujeron consultas innecesarias en 60%**
@@ -64,10 +70,21 @@ Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de e
 
 ### 💻 POS Developer - By 3 Solutions
 **Febrero 2023 – Junio 2023**
-
 - ✅ Desarrollé **sistema POS completo** para múltiples ubicaciones comerciales
 - ✅ **Automaticé procesos** de inventario y facturación
 - ✅ Implementé **arquitectura full-stack** con JavaScript y Node.js
+
+---
+
+## 🚀 Proyectos Destacados
+<a href="https://github.com/MartinCortes20/NutriCom">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinCortes20&repo=NutriCom&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=58A6FF" />
+</a>
+<a href="https://github.com/MartinCortes20/ProyectoSockets">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinCortes20&repo=ProyectoSockets&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=58A6FF" />
+</a>
+
+---
 
 ## 🏆 Certificaciones
 
@@ -83,6 +100,8 @@ Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de e
 ![UX Design Fundamentals](https://img.shields.io/badge/UX_Design_Fundamentals-FF6B6B?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
+
+---
 
 ## 📊 Estadísticas de GitHub
 
@@ -101,7 +120,15 @@ Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de e
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinCortes20&theme=dark&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=C9D1D9&currStreakNum=FFFFFF&dates=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak" />
 
+<!-- Activity Graph -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MartinCortes20&theme=react-dark&hide_border=true&area=true)
+
+<!-- Trophies -->
+![trophy](https://github-profile-trophy.vercel.app/?username=MartinCortes20&theme=onedark&column=4)
+
 </div>
+
+---
 
 ## 🎓 Educación
 
@@ -113,13 +140,15 @@ Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de e
 **Técnico en Sistemas Digitales**  
 *Agosto 2017 – Junio 2021*
 
-## 🌐 Idiomas
+---
 
-- **Español:** Nativo 🇲🇽
-- **Inglés:** Intermedio (B2) - En proceso de certificación 🇺🇸
+## 🌐 Idiomas
+- **Español:** Nativo 🇲🇽  
+- **Inglés:** Intermedio (B2) - En proceso de certificación 🇺🇸  
+
+---
 
 ## 📫 ¡Conectemos!
-
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-cortesbuendiamartin@gmail.com-000000?style=flat&logo=gmail&logoColor=white)](mailto:cortesbuendiamartin@gmail.com)
@@ -132,8 +161,11 @@ Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de e
 
 <div align="center">
 
-💡 *"Siempre en busca de nuevos desafíos y oportunidades para crear soluciones innovadoras"*
+💡 *"Siempre en busca de nuevos desafíos y oportunidades para crear soluciones innovadoras"*  
 
 ⭐ **¡No olvides dar una estrella a mis repositorios si te resultan útiles!**
 
 </div>
+
+<!-- FOOTER -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=120&section=footer)
