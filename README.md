@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=¡Hola!%20Soy%20Martín%20Cortés&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35)
 
 <div align="center">
-  
+
 ![GitHub followers](https://img.shields.io/github/followers/MartinCortes20?style=flat&logo=github&logoColor=white&color=000000)
 ![GitHub User's stars](https://img.shields.io/github/stars/MartinCortes20?style=flat&logo=github&logoColor=white&color=000000)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-francisco-cortes-8bb642272/)
