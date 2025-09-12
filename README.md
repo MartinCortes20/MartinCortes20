@@ -2,12 +2,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=¡Hola!%20Soy%20Martín%20Cortés&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35" alt="header"/>
 </div>
-
-<!-- PERFIL CON GIF Y FOTO -->
-<div align="center">
-
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWl2ajlzZHVydnNnNzN3bDJsNXMzOHNnajM1cmZxNmo3eDB3cXQ3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QYkX9IMHthYn0Y3pcG/giphy.gif" width="650"/>
-  <br>
   
   
   <!-- BOTONES CIRCULARES CON ICONOS PERSONALIZADOS -->
