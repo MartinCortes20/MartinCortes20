@@ -88,16 +88,6 @@ Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de e
 
 ---
 
-## 🚀 Proyectos Destacados
-<a href="https://github.com/MartinCortes20/NutriCom">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinCortes20&repo=NutriCom&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=58A6FF" />
-</a>
-<a href="https://github.com/MartinCortes20/ProyectoSockets">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinCortes20&repo=ProyectoSockets&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=58A6FF" />
-</a>
-
----
-
 ## 🏆 Certificaciones
 
 <div align="center">
