@@ -1,15 +1,31 @@
 <!-- HEADER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=¡Hola!%20Soy%20Martín%20Cortés&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35)
-
 <div align="center">
-  
-![GitHub followers](https://img.shields.io/github/followers/MartinCortes20?style=flat&logo=github&logoColor=white&color=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/MartinCortes20?style=flat&logo=github&logoColor=white&color=000000)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-francisco-cortes-8bb642272/)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=¡Hola!%20Soy%20Martín%20Cortés&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35" alt="header"/>
 </div>
 
----
+<!-- PERFIL CON FOTO -->
+<div align="center">
+  <br>
+  <!-- ESPACIO PARA TU FOTO - Reemplaza con tu imagen -->
+  <img src="https://via.placeholder.com/150/000000/FFFFFF/?text=Tu+Foto" width="150" height="150" style="border-radius: 50%; border: 3px solid #333; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+  <br><br>
+  
+  <!-- BOTONES CIRCULARES -->
+  <div>
+    <a href="https://github.com/MartinCortes20?tab=followers">
+      <img src="https://img.shields.io/github/followers/MartinCortes20?style=flat&logo=github&logoColor=white&color=000000&label=Seguidores" alt="GitHub followers" style="border-radius: 50px; margin: 5px;"/>
+    </a>
+    <a href="https://github.com/MartinCortes20?tab=stars">
+      <img src="https://img.shields.io/github/stars/MartinCortes20?style=flat&logo=github&logoColor=white&color=000000&label=Estrellas" alt="GitHub User's stars" style="border-radius: 50px; margin: 5px;"/>
+    </a>
+    <a href="https://www.linkedin.com/in/martin-francisco-cortes-8bb642272/">
+      <img src="https://img.shields.io/badge/LinkedIn-Conectar-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 50px; margin: 5px;"/>
+    </a>
+  </div>
+</div>
+
+<!-- FONDO CON DEGRADADO -->
+<div style="background: linear-gradient(to right, #f5f5f5, #e0e0e0); padding: 20px; border-radius: 10px; margin: 20px 0;">
 
 ## 🚀 Sobre mí
 <p align="center">
@@ -21,8 +37,9 @@ Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de e
 🎯 **Objetivo:** Desarrollarme como Software Engineer contribuyendo a soluciones impactantes, escalables e inclusivas.  
 📍 **Ubicación:** Ciudad de México, México  
 
----
+</div>
 
+<!-- CONTENIDO RESTANTE (se mantiene igual) -->
 ## 🛠️ Stack Tecnológico
 
 ### Backend Development
@@ -151,9 +168,9 @@ Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de e
 ## 📫 ¡Conectemos!
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-cortesbuendiamartin@gmail.com-000000?style=flat&logo=gmail&logoColor=white)](mailto:cortesbuendiamartin@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-francisco-cortes-8bb642272/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/MartinCortes20)
+[![Email](https://img.shields.io/badge/Email-cortesbuendiamartin@gmail.com-000000?style=flat&logo=gmail&logoColor=white&style=for-the-badge)](mailto:cortesbuendiamartin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/martin-francisco-cortes-8bb642272/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-000000?style=flat&logo=github&logoColor=white&style=for-the-badge)](https://github.com/MartinCortes20)
 
 </div>
 
