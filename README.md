@@ -4,7 +4,7 @@
   
 ![GitHub followers](https://img.shields.io/github/followers/MartinCortes20?style=flat&logo=github&logoColor=white&color=000000)
 ![GitHub stars](https://img.shields.io/github/stars/MartinCortes20?style=flat&logo=github&logoColor=white&color=000000)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat&logo=linkedin&logoColor=white)](tu-linkedin-aqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-francisco-cortes-8bb642272/)
 
 </div>
 
@@ -71,12 +71,6 @@ Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de e
 - Automaticé procesos de inventario y facturación
 - Implementé arquitectura full-stack con **JavaScript** y **Node.js**
 
-### 📱 **Mobile Developer Intern** - Totalplay
-*Septiembre 2022 – Febrero 2023*
-- Mantuve y mejoré aplicación móvil con **SwiftUI**
-- Desarrollé nuevas funcionalidades y optimicé código iOS
-- Contribuí al rediseño visual mejorando la interfaz de usuario
-
 ---
 
 ## 🏆 Certificaciones
@@ -84,7 +78,7 @@ Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de e
 <div align="center">
 
 ### ☁️ Google Cloud
-![Google Cloud](https://img.shields.io/badge/Cloud%20Computing%20Foundations-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Google Cloud Computing Foundations Certificate – Google Cloud](https://www.credly.com/badges/07dcf2dc-ee10-44fe-a1ba-33dd3622d6ee/linked_in_profile)
 ![Load Balancing](https://img.shields.io/badge/Load%20Balancing%20Badge-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform%20Infrastructure-4285F4?style=flat&logo=terraform&logoColor=white)
 
