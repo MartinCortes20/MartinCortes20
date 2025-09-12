@@ -19,6 +19,10 @@
     <a href="https://www.linkedin.com/in/martin-francisco-cortes-8bb642272/" style="text-decoration: none; display: inline-block; margin: 5px;">
       <img src="https://img.icons8.com/m_outlined/200/FFFFFF/linkedin.png" width="60" height="60" style="vertical-align: middle;"/>
     </a>
+      <!-- Instagram -->
+    <a href="https://www.instagram.com/martin_cortia/" style="text-decoration: none; display: inline-block; margin: 5px;">
+      <img src="https://img.icons8.com/win10/512/FFFFFF/instagram-new.png" width="60" height="60" style="vertical-align: middle;"/>
+    </a>
   </div>
 </div>
 
