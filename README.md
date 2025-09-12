@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/github/stars/MartinCortes20?style=flat&logo=github&logoColor=white&color=000000&label=Estrellas" alt="GitHub User's stars" style="border-radius: 50px; margin: 5px;"/>
     </a>
     <a href="https://www.linkedin.com/in/martin-francisco-cortes-8bb642272/">
-      <img src="https://img.shields.io/badge/LinkedIn-Conectar-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 50px; margin: 5px;"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/4401/4401412.png" alt="LinkedIn" style="border-radius: 50px; margin: 5px;"/>
     </a>
   </div>
 </div>
