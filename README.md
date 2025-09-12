@@ -11,7 +11,6 @@
     <a href="https://github.com/MartinCortes20?tab=followers" style="text-decoration: none; display: inline-block; margin: 5px;">
       <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" width="30" height="30" style="vertical-align: middle;"/>
       <span style="background-color: #000000; color: white; padding: 5px 10px; border-radius: 50px; margin-left: 5px;">
-        Seguidores
       </span>
     </a>
     <!-- Estrellas -->
