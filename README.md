@@ -1,8 +1,8 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=¡Hola!%20Soy%20Martín%20Cortés&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:cccccc&height=200&section=header&text=¡Hola!%20Soy%20Martín%20Cortés&fontColor=333333&fontSize=40&animation=fadeIn&fontAlignY=35" alt="header"/>
 </div>
-  
+
   
 <div align="center">
   <!-- BOTONES CIRCULARES CON ICONOS PERSONALIZADOS -->
