@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=¡Hola!%20Soy%20Martín%20Cortés&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35)
 
 <div align="center">
-
+  
 ![GitHub followers](https://img.shields.io/github/followers/MartinCortes20?style=flat&logo=github&logoColor=white&color=000000)
 ![GitHub User's stars](https://img.shields.io/github/stars/MartinCortes20?style=flat&logo=github&logoColor=white&color=000000)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-francisco-cortes-8bb642272/)
@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mí
 <p align="center">
-  <img src="(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWh1b3FucHVwNmMyaWh5bXBqeXdhNHJwZ2hjdXVkNHF4cXJnZXJjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif)" width="550"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </p>
 
 Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de experiencia** en desarrollo backend, frontend y optimización de sistemas. Me especializo en crear soluciones eficientes que mejoran la experiencia del usuario y optimizan procesos empresariales.
