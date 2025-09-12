@@ -9,23 +9,15 @@
   <div>
     <!-- Seguidores -->
     <a href="https://github.com/MartinCortes20?tab=followers" style="text-decoration: none; display: inline-block; margin: 5px;">
-      <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" width="30" height="30" style="vertical-align: middle;"/>
-      <span style="background-color: #000000; color: white; padding: 5px 10px; border-radius: 50px; margin-left: 5px;">
-      </span>
+      <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" width="60" height="60" style="vertical-align: middle;"/>
     </a>
     <!-- Estrellas -->
     <a href="https://github.com/MartinCortes20?tab=stars" style="text-decoration: none; display: inline-block; margin: 5px;">
-      <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" width="30" height="30" style="vertical-align: middle;"/>
-      <span style="background-color: #000000; color: white; padding: 5px 10px; border-radius: 50px; margin-left: 5px;">
-        Estrellas
-      </span>
+      <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" width="60" height="60" style="vertical-align: middle;"/>
     </a>
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/martin-francisco-cortes-8bb642272/" style="text-decoration: none; display: inline-block; margin: 5px;">
-      <img src="https://img.icons8.com/m_outlined/200/FFFFFF/linkedin.png" width="30" height="30" style="vertical-align: middle;"/>
-      <span style="background-color: #000000; color: white; padding: 5px 10px; border-radius: 50px; margin-left: 5px;">
-        Conectar
-      </span>
+      <img src="https://img.icons8.com/m_outlined/200/FFFFFF/linkedin.png" width="60" height="60" style="vertical-align: middle;"/>
     </a>
   </div>
 </div>
