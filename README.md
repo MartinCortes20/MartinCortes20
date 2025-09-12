@@ -79,16 +79,16 @@ Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de e
 
 ### 🏢 Backend Developer - S.A.P.S.Y
 **Junio 2024 – Noviembre 2024**
-- ✅ Optimicé sistema de gestión de agua para **+40,000 usuarios registrados**
-- ✅ Rediseñé arquitectura backend con **Node.js y Express**
-- ✅ Implementé validaciones que **redujeron consultas innecesarias en 60%**
-- ✅ Desarrollé sistema de seguridad con **bcrypt y autenticación JWT**
+-  Optimicé sistema de gestión de agua para **+40,000 usuarios registrados**
+-  Rediseñé arquitectura backend con **Node.js y Express**
+-  Implementé validaciones que **redujeron consultas innecesarias en 60%**
+-  Desarrollé sistema de seguridad con **bcrypt y autenticación JWT**
 
 ### 💻 POS Developer - By 3 Solutions
 **Febrero 2023 – Junio 2023**
-- ✅ Desarrollé **sistema POS completo** para múltiples ubicaciones comerciales
-- ✅ **Automaticé procesos** de inventario y facturación
-- ✅ Implementé **arquitectura full-stack** con JavaScript y Node.js
+-  Desarrollé **sistema POS completo** para múltiples ubicaciones comerciales
+-  **Automaticé procesos** de inventario y facturación
+-  Implementé **arquitectura full-stack** con JavaScript y Node.js
 
 ---
 
