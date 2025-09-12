@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mí
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWh1b3FucHVwNmMyaWh5bXBqeXdhNHJwZ2hjdXVkNHF4cXJnZXJjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif)" width="550"/>
+  <img src="(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWh1b3FucHVwNmMyaWh5bXBqeXdhNHJwZ2hjdXVkNHF4cXJnZXJjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif)" width="550"/>
 </p>
 
 Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de experiencia** en desarrollo backend, frontend y optimización de sistemas. Me especializo en crear soluciones eficientes que mejoran la experiencia del usuario y optimizan procesos empresariales.
