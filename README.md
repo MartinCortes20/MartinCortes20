@@ -75,40 +75,6 @@ Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de e
 
 ---
 
-## 💼 Experiencia Destacada
-
-### 🏢 Backend Developer - S.A.P.S.Y
-**Junio 2024 – Noviembre 2024**
--  Optimicé sistema de gestión de agua para **+40,000 usuarios registrados**
--  Rediseñé arquitectura backend con **Node.js y Express**
--  Implementé validaciones que **redujeron consultas innecesarias en 60%**
--  Desarrollé sistema de seguridad con **bcrypt y autenticación JWT**
-
-### 💻 POS Developer - By 3 Solutions
-**Febrero 2023 – Junio 2023**
--  Desarrollé **sistema POS completo** para múltiples ubicaciones comerciales
--  **Automaticé procesos** de inventario y facturación
--  Implementé **arquitectura full-stack** con JavaScript y Node.js
-
----
-
-## 🏆 Certificaciones
-
-<div align="center">
-
-### ☁️ Google Cloud
-![Google Cloud Computing Foundations](https://img.shields.io/badge/Google_Cloud_Computing_Foundations-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Secure Google Cloud Network](https://img.shields.io/badge/Secure_Google_Cloud_Network-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Load Balancing Compute Engine](https://img.shields.io/badge/Load_Balancing_Compute_Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Terraform Google Cloud](https://img.shields.io/badge/Terraform_Google_Cloud-4285F4?style=for-the-badge&logo=terraform&logoColor=white)
-
-### 🎨 UX/UI Design
-![UX Design Fundamentals](https://img.shields.io/badge/UX_Design_Fundamentals-FF6B6B?style=for-the-badge&logo=google&logoColor=white)
-
-</div>
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
@@ -136,24 +102,6 @@ Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de e
 
 ---
 
-## 🎓 Educación
-
-### 🏫 Escuela Superior de Cómputo (ESCOM) - IPN
-**Ingeniería en Sistemas Computacionales** (7mo semestre)  
-*Agosto 2021 – Junio 2026*
-
-### 🔧 CECyT No. 3 "Estanislao Ramírez Ruiz" - IPN
-**Técnico en Sistemas Digitales**  
-*Agosto 2017 – Junio 2021*
-
----
-
-## 🌐 Idiomas
-- **Español:** Nativo 🇲🇽  
-- **Inglés:** Intermedio (B2) - En proceso de certificación 🇺🇸  
-
----
-
 ## 📫 ¡Conectemos!
 <div align="center">
 
@@ -164,14 +112,6 @@ Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de e
 </div>
 
 ---
-
-<div align="center">
-
-💡 *"Siempre en busca de nuevos desafíos y oportunidades para crear soluciones innovadoras"*  
-
-⭐ **¡No olvides dar una estrella a mis repositorios si te resultan útiles!**
-
-</div>
 
 <!-- FOOTER -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=120&section=footer)
