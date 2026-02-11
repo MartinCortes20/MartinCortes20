@@ -22,16 +22,16 @@
 <!-- FONDO CON DEGRADADO -->
 <div style="background: linear-gradient(to right, #f5f5f5, #e0e0e0); padding: 20px; border-radius: 10px; margin: 20px 0;">
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de experiencia** en desarrollo backend, frontend y optimización de sistemas. Me especializo en crear soluciones eficientes que mejoran la experiencia del usuario y optimizan procesos empresariales.
 
-🎯 **Objetivo:** Desarrollarme como Software Engineer contribuyendo a soluciones impactantes, escalables e inclusivas.  
-📍 **Ubicación:** Ciudad de México, México  
+ **Objetivo:** Desarrollarme como Software Engineer contribuyendo a soluciones impactantes, escalables e inclusivas.  
+ **Ubicación:** Ciudad de México, México  
 
 </div>
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=white)
@@ -67,7 +67,7 @@ Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de e
 
 ---
 
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 <div align="center">
 
@@ -94,7 +94,7 @@ Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de e
 
 ---
 
-## 📫 ¡Conectemos!
+##  ¡Conectemos!
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-cortesbuendiamartin@gmail.com-000000?style=flat&logo=gmail&logoColor=white&style=for-the-badge)](mailto:cortesbuendiamartin@gmail.com)
