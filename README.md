@@ -24,7 +24,7 @@
 
 ## Sobre mí
 
-Soy **Ingeniero en Sistemas Computacionales** en 7mo semestre con **+1 año de experiencia** en desarrollo backend, frontend y optimización de sistemas. Me especializo en crear soluciones eficientes que mejoran la experiencia del usuario y optimizan procesos empresariales.
+Soy **Ingeniero en Sistemas Computacionales** en 8vo semestre con **+2 años de experiencia** en desarrollo backend, frontend y optimización de sistemas. Me especializo en crear soluciones eficientes que mejoran la experiencia del usuario y optimizan procesos empresariales.
 
  **Objetivo:** Desarrollarme como Software Engineer contribuyendo a soluciones impactantes, escalables e inclusivas.  
  **Ubicación:** Ciudad de México, México  
