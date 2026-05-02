@@ -8,7 +8,7 @@
   <!-- BOTONES CIRCULARES CON ICONOS PERSONALIZADOS -->
   <div>
     <!-- LinkedIn -->
-    <a href="www.linkedin.com/in/martincortesb" style="text-decoration: none; display: inline-block; margin: 5px;">
+    <a href="https://www.linkedin.com/in/martincortesb/" style="text-decoration: none; display: inline-block; margin: 5px;">
       <img src="https://img.icons8.com/m_outlined/200/FFFFFF/linkedin.png" width="60" height="60" style="vertical-align: middle;"/>
     </a>
       <!-- Instagram -->
