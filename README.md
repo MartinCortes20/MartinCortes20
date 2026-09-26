@@ -1,7 +1,10 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a1a2e&height=200&section=header&text=Martín%20Cortés&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20AI%20Engineer&descFontColor=cccccc&descSize=20&descAlignY=55" alt="header"/>
+  <h1>👋 Hola, soy Martín Cortés</h1>
+  <h3>Cloud & AI Engineer · AWS · GCP · Anthropic · IPN ESCOM</h3>
 </div>
+
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/martincortesb/">
@@ -81,7 +84,7 @@ Actualmente enfocado en arquitecturas serverless, IA generativa con Amazon Bedro
 
 ## Certificaciones
 
-![GCP](https://img.shields.io/badge/Google%20Cloud%20Engineering%20Certificate-000000?style=flat&logo=googlecloud&logoColor=white)
+![GCP Engineering](https://img.shields.io/badge/Google%20Cloud%20Engineering%20Certificate-000000?style=flat&logo=googlecloud&logoColor=white)
 ![GCP Foundations](https://img.shields.io/badge/GCP%20Computing%20Foundations-000000?style=flat&logo=googlecloud&logoColor=white)
 ![GEAR](https://img.shields.io/badge/GEAR%20Gemini%20Enterprise%20Agent%20Ready-000000?style=flat&logo=google&logoColor=white)
 ![AWS CLF](https://img.shields.io/badge/AWS%20CLF--C02-000000?style=flat&logo=amazonaws&logoColor=white)
@@ -129,4 +132,6 @@ Actualmente enfocado en arquitecturas serverless, IA generativa con Amazon Bedro
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0D1117&height=120&section=footer)
+<div align="center">
+  <sub>Cloud & AI Engineer · Ciudad de México · 2026</sub>
+</div>
